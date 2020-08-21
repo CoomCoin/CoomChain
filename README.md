@@ -1,1 +1,1 @@
-# CoomChain
+![CoomCoin](img/CoomCoin.png)
